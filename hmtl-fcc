@@ -1,12 +1,19 @@
+<style>
+    .red-text {
+      color: red;
+    }
+  </style>
 <h1>Hello World</h1>
-<h2>CatPhotoApp</h2>
+<h2 class="red-text">CatPhotoApp</h2>
 <!-- <p>Hello Paragraph</p> -->
 <p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
 
 <!-- Inline style "cascading (top is less important than bottom) Inline style trumps all" -->
 dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
 
-<h2 style="color: blue">CatPhotoApp</h2> 
+
+  
+ 
 
 
 
